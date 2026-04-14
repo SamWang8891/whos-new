@@ -1,0 +1,9 @@
+[project]
+name = "whos-new"
+version = "0.1.0"
+description = "IP range monitor"
+requires-python = ">=3.12"
+dependencies = []
+
+[dependency-groups]
+dev = ["pytest>=8"]

@@ -1,0 +1,13 @@
+# AI
+.claude/settings.local.json
+
+# IDE
+.idea/
+
+# Python
+__pycache__/
+.venv/
+*.pyc
+
+# OS
+.DS_Store
